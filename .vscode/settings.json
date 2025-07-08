@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Hexagon_env/hexagon_env",
+        "./Hexagon_env_parallel"
+    ],
+    "julia.environmentPath": "c:\\Users\\97798\\Desktop\\current\\EvolveRL"
+}
