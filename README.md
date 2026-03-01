@@ -260,9 +260,3 @@ Developed as part of a B.Sc. in Computational Mathematics at Kathmandu Universit
 ## Author
 
 **Supriya Baniya**  
-B.Sc. Computational Mathematics, Kathmandu University  
-GitHub: [@baniya777](https://github.com/baniya777)
-
----
-
-*Undergraduate research project — January 2024 to March 2026*
