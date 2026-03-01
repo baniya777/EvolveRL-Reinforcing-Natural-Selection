@@ -20,3 +20,7 @@ outputs/
 *.png
 *.jpg
 
+venv/
+env/
+__pycache__/
+*.pyc
