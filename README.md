@@ -242,21 +242,9 @@ tqdm>=4.65.0
 
 ---
 
-## References
-
-- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
-- Lotka, A. J. (1925). *Elements of Physical Biology*. Williams & Wilkins.
-- Volterra, V. (1926). Fluctuations in the abundance of a species considered mathematically. *Nature*, 118, 558–560.
-- PettingZoo documentation: https://pettingzoo.farama.org/
-
----
-
 ## Acknowledgments
 
 Developed as part of a B.Sc. in Computational Mathematics at Kathmandu University under the supervision of Mr. Harish Chandra Bhandari. Thanks to project team members for collaboration on the initial environment design.
 
 ---
 
-## Author
-
-**Supriya Baniya**  
